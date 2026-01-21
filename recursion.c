@@ -14,7 +14,7 @@ void sum(int a){
 
 
 int main(){
-    sum(5);
+    sum(6);
 }
     
 

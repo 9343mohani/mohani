@@ -26,7 +26,7 @@
 // }
 #include<stdio.h>
 int main(){
-    int arr[4]={1,2,4,5};
+    int arr[4]={1,2,3,5};
     int xor=0;
     int xor1=0;
     for(int i=1;i<=5;i++){
